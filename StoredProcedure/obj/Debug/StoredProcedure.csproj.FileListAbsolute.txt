@@ -1,0 +1,10 @@
+C:\Users\FARUKOKSUZ\Desktop\StoredProcedure\StoredProcedure\bin\Debug\StoredProcedure.exe.config
+C:\Users\FARUKOKSUZ\Desktop\StoredProcedure\StoredProcedure\bin\Debug\StoredProcedure.exe
+C:\Users\FARUKOKSUZ\Desktop\StoredProcedure\StoredProcedure\bin\Debug\StoredProcedure.pdb
+C:\Users\FARUKOKSUZ\Desktop\StoredProcedure\StoredProcedure\obj\Debug\StoredProcedure.csprojAssemblyReference.cache
+C:\Users\FARUKOKSUZ\Desktop\StoredProcedure\StoredProcedure\obj\Debug\StoredProcedure.Properties.Resources.resources
+C:\Users\FARUKOKSUZ\Desktop\StoredProcedure\StoredProcedure\obj\Debug\StoredProcedure.csproj.GenerateResource.cache
+C:\Users\FARUKOKSUZ\Desktop\StoredProcedure\StoredProcedure\obj\Debug\StoredProcedure.csproj.CoreCompileInputs.cache
+C:\Users\FARUKOKSUZ\Desktop\StoredProcedure\StoredProcedure\obj\Debug\StoredProcedure.exe
+C:\Users\FARUKOKSUZ\Desktop\StoredProcedure\StoredProcedure\obj\Debug\StoredProcedure.pdb
+C:\Users\FARUKOKSUZ\Desktop\StoredProcedure\StoredProcedure\obj\Debug\StoredProcedure.StoredProcedure.resources

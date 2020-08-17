@@ -1,0 +1,6 @@
+﻿CREATE PROCEDURE Ara
+(
+@ad NVARCHAR(50)
+)
+AS
+SELECT *FROM yonetici WHERE ad LIKE '%'+@ad+'%'
